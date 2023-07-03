@@ -7,3 +7,6 @@ Users can scroll through the list of articles and tap on an article to view more
 The app fetches data from a remote server using Retrofit library and demonstrates how to use the Jetpack Compose UI toolkit for Android development.
 
 Languages used - Kotlin
+
+Project demo vedio link:
+https://drive.google.com/file/d/1EyxloF2Aq379cNLYuyTwyrHLMvqQpUkp/view?usp=sharing
